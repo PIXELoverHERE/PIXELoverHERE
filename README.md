@@ -1,4 +1,4 @@
-## 🚀 Hi there! I'm [Your Name] 👋
+## 🚀 Hi there! I'm Devansh Mishra 👋
 
 I'm a **B.Tech Information Technology student** with a strong interest in exploring and implementing new emerging technologies. I'm passionate about building impactful projects, solving complex problems, and continuously expanding my technical toolkit.
 
@@ -12,7 +12,7 @@ I believe in hands-on learning, and I'm currently focused on projects that allow
 | :--- | :--- | :--- |
 | **Web Development** | HTML5, CSS3, JavaScript (Learning), **Flask** (Python Web Framework) | Building RESTful APIs and modern frontend user interfaces. |
 | **Programming** | **Python**, C | Data structures, algorithms, and exploring object-oriented design. |
-| **Emerging Tech** | **Cloud Computing / Data Science / AI Fundamentals | Focused on practical implementation and small-scale projects in this domain. |
+| **Emerging Tech** | **Cloud Computing** / Data Science / AI Fundamentals | Focused on practical implementation and small-scale projects in this domain. |
 | **Version Control** | **Git**, GitHub | Collaborative development and efficient code management. |
 
 ---
