@@ -52,4 +52,4 @@ I'm always open to connecting with fellow developers, discussing new technologie
 
 * 📧 **Email:** **DEVANSHMISHRA231@GMAIL.COM**
 * 🔗 **LinkedIn:** **www.linkedin.com/in/devansh-mishra231**
-* 🌐 **Portfolio/Personal Site:** **[]**
+* 🌐 **Portfolio/Personal Site:** **https://devansh-portfolio-indol.vercel.app/**
