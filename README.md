@@ -22,8 +22,8 @@ I believe in hands-on learning, and I'm currently focused on projects that allow
 Here are the primary technologies and tools I'm comfortable working with:
 
 * **Programming Languages:** Python, C
-* **Web Technologies:** HTML, CSS, Flask
-* **Databases:**  MySQL
+* **Web Technologies:** HTML, CSS, Flask , JS , React , Next
+* **Databases:**  MySQL , MongoDB
 * **Tools & Platforms:** Git, GitHub, VS Code, Linux , Terminal
 * **Concepts:** Basic data structures and algorithms, Responsive Design, Basic Networking
 
