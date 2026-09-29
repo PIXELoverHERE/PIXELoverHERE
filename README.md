@@ -1,3 +1,4 @@
+```
   esc        F1   F2   F4   F5   F6   F7   F8
 
               ±    !    @    #    $    %    ^    $
@@ -35,3 +36,4 @@ d$$$$$$$$iiiISSSii:iIS$II$$IiIdSII?ª'
 ,d$SS$$SiS$$IiISSSiii:IIS$ii??:?ISIi:'
 .$$S$$SSiIis$$iIS$Sii::iiS$$?^.::iI?'
 j$$SiSS$iiIS$$iIS$Sii:iil$$?^..::i?'         
+```
