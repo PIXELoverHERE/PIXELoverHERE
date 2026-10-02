@@ -37,3 +37,77 @@ d$$$$$$$$iiiISSSii:iIS$II$$IiIdSII?ª'
 .$$S$$SSiIis$$iIS$Sii::iiS$$?^.::iI?'
 j$$SiSS$iiIS$$iIS$Sii:iil$$?^..::i?'         
 ```
+<br>
+
+<div align="center">
+
+<a href="https://github.com/PIXELoverHERE">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=620&height=40&lines=hey%2C+i'm+devansh+mishra;ui%2Fux+%C2%B7+full-stack+%C2%B7+software engineer;i'm+a+student" alt="hey, i'm devansh mishra" />
+</a>
+
+</div>
+
+<br>
+
+```bash
+~ $ whoami
+devansh mishra
+
+~ $ cat about.txt
+b.tech it @ jssaten
+designing interfaces, shipping full-stack, tinkering with prompts , breaking codes
+
+~ $ status
+open to internships
+```
+
+### `stack`
+
+<code>frontend</code><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs&theme=dark" alt="frontend stack" />
+
+<br>
+
+<code>backend & data</code><br>
+<img src="https://skillicons.dev/icons?i=py,c,mongodb,mysql&theme=dark" alt="backend and data stack" />
+
+<br>
+
+<code>tools</code><br>
+<img src="https://skillicons.dev/icons?i=git,linux,figma&theme=dark" alt="tools" />
+
+### `keymap`
+
+<a href="https://devansh-portfolio-indol.vercel.app/"><kbd>&nbsp;F1 · portfolio&nbsp;</kbd></a>
+<a href="https://www.linkedin.com/in/devansh-mishra231"><kbd>&nbsp;F2 · linkedin&nbsp;</kbd></a>
+<a href="mailto:devanshmishra231@outlook.com"><kbd>&nbsp;F3 · mail&nbsp;</kbd></a>
+<a href="https://discord.com/users/1052306026411597854"><kbd>&nbsp;F4 · discord&nbsp;</kbd></a>
+
+### `now playing`
+
+<a href="https://widgets.1ceit.com/PIXELoverHERE/spotify?open">
+  <img src="https://widgets.1ceit.com/PIXELoverHERE/spotify" alt="spotify now playing" />
+</a>
+
+### `stats`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PIXELoverHERE&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff">
+    <img alt="github stats" height="165" src="https://github-readme-stats.vercel.app/api?username=PIXELoverHERE&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=24292f">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PIXELoverHERE&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e">
+    <img alt="top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIXELoverHERE&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a">
+  </picture>
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=PIXELoverHERE&style=flat-square&color=30363d&label=visitors" alt="profile views" />
+
+<sub>~ $ exit 0</sub>
+
+</div>
