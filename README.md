@@ -42,7 +42,7 @@ j$$SiSS$iiIS$$iIS$Sii:iil$$?^..::i?'
 <div align="center">
 
 <a href="https://github.com/PIXELoverHERE">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=620&height=40&lines=hey%2C+i'm+devansh+mishra;ui%2Fux+%C2%B7+full-stack+%C2%B7+software engineer;i'm+a+student" alt="hey, i'm devansh mishra" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=620&height=40&lines=hey%2C+i'm+devansh+mishra;ui%2Fux+%C2%B7+full-stack+%C2%B7+software+engineer;i'm+a+student" alt="hey, i'm devansh mishra" />
 </a>
 
 </div>
